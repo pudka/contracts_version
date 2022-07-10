@@ -1,0 +1,22 @@
+{
+  "name": "contracts_version",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pudka/contracts_version.git"
+  },
+  "author": "anar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pudka/contracts_version/issues"
+  },
+  "homepage": "https://github.com/pudka/contracts_version#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
